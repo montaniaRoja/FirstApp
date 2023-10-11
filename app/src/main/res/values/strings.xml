@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="app_nombres">Ingrese Nombre del empleado</string>
+    <string name="app_apellido">Ingrese Apellido del empleado</string>
+    <string name="app_accion">Guardar Datos</string>
+    <string name="app_crear">Crear Empleado</string>
+    <string name="app_listar">Lista de Empleados</string>
+    <string name="app_edad">Ingrese edad</string>
+    <string name="app_correo">Ingrese correo</string>
+    <string name="app_exito">Registro ingresado con Exito</string>
+    <string name="app_error">Error al guardar registro</string>
+
+</resources>
